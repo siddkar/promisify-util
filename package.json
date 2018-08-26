@@ -1,0 +1,34 @@
+{
+    "name": "odisha",
+    "version": "1.0.0",
+    "description": "This package will help you promisify callbacks in your application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/siddkar/odisha.git"
+    },
+    "keywords": [
+        "es6",
+        "promisify",
+        "node"
+    ],
+    "author": "Siddharth Kar <siddharth.kar@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/siddkar/odisha/issues"
+    },
+    "homepage": "https://github.com/siddkar/odisha#readme",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-eslint": "^8.2.6",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-stage-3": "^6.24.1",
+        "eslint": "^5.4.0",
+        "eslint-config-airbnb-base": "^13.1.0",
+        "eslint-plugin-import": "^2.14.0"
+    },
+    "dependencies": {}
+}
